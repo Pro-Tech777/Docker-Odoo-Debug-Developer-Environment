@@ -9,4 +9,4 @@ This repository includes a Dockerfile to create your own image for debugging Odo
 
 - Feel free to share your updates and improvements by submitting a pull request!
 
-Copyright © Hawary  m@havari.me OU 2025-present. By using this repository, you acknowledge that you understand the implications and assume all associated risks.
+Copyright © Hawary  m@havari.me  2025-present. By using this repository, you acknowledge that you understand the implications and assume all associated risks.
