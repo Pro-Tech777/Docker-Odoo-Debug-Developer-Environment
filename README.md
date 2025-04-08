@@ -11,9 +11,7 @@ This repository includes a Dockerfile to create your own image for debugging Odo
 
 Copyright © Hawary  m@havari.me  2025-present. By using this repository, you acknowledge that you understand the implications and assume all associated risks.
 
-Below is the updated step-by-step guide for debugging Odoo using Docker, with **Step 6: Clone Tutorial Files** modified to use the new repository URL: `https://github.com/Pro-Tech777/Docker-Odoo-Debug-Developer-Environment.git`. All other steps remain unchanged, and the checklist for Step 6 has been updated to reflect the new repository.
 
----
 
 ### Step-by-Step Guide: Debug Odoo Using Docker
 
